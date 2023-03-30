@@ -1,0 +1,118 @@
+*{
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+.red{
+    color: #FF0000;
+}
+.yellow{
+    color: #FFFF00;
+}
+.blue{
+    color: #0000FF;
+}
+.purple{
+    color: #800080;
+}
+.green{
+    color: #008001;
+}
+.pgQuote{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+.title{
+    color:  #008001;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.imgMascote{
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    float: left; /* especifica como o elemento vai fluatar em relaçaão ao outro */
+}
+
+hr{
+    height: 1px;
+    background-color: #000;
+}
+
+.ulFunFacts > li{
+    margin: 0;
+}
+
+.imgTaca{
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    float: right; /* especifica como o elemento vai fluatar em relaçaão ao outro */
+}
+
+
+.italy{
+    background: linear-gradient(to right, #00FF00 50%,#FF0000 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    margin: 0;
+}
+.uruguay{
+    color: #0000FF;
+    margin: 0;
+}
+
+.germany{
+    background: linear-gradient(to right, #FF0000 0 33%,#FFFF00 0 70%, #000000 0 80%) ;
+    background-clip: text; 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    margin: 0;
+}
+
+.brazil{
+    background: linear-gradient(to right, #00FF00 50%,#FFFF00 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    margin: 0;
+}
+
+.france{
+    background: linear-gradient(to right, #0000FF 50%,#FF0000 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    margin: 0;   
+}
+
+.england{
+    color: #0000FF;
+    margin: 0;
+}
+
+.argentina{
+    color: #00FFFF;
+    margin: 0;
+}
+
+.ulChampions > li{
+    margin: 0;
+    font-weight: bold;
+}
+
+ol > li{
+    font-style: italic;
+    font-weight: bold;
+    margin: 0;
+}
+
